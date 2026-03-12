@@ -20,7 +20,7 @@ Thoracic spine injury sustained in July 2008 from jumping off an ~18m cliff into
 
 ## Current Status
 
-Chronic but well-managed. The injury never fully resolved but causes no significant problems as long as upper back strength is maintained.
+Chronic but well-managed. The injury never fully resolved — years of pain followed the initial injury. Upper back often cracks and releases tension (when arching back, sometimes when lying on stomach and pushing up with arms). When particularly tight, the spine can feel like it's bulging out. As long as upper back strength is maintained, it's manageable.
 
 ## Management
 

@@ -1,10 +1,10 @@
-# Cardiovascular — Hypertension, High Cholesterol, Arterial Calcification
+# Cardiovascular — High Cholesterol, Arterial Calcification
 
 ## Summary
 
-High blood pressure with elevated cholesterol. Blood results otherwise normal. Early coronary artery calcification detected (~2021) at the lowest non-zero severity score. Currently on a statin.
+Elevated cholesterol (blood results otherwise normal). Early coronary artery calcification detected (~2021) at the lowest non-zero severity score. Currently on a statin.
 
-## Cholesterol (date unknown — to be confirmed)
+## Cholesterol (2025-01-14)
 
 | Measure | Value | Unit |
 |---------|-------|------|
@@ -19,7 +19,9 @@ High blood pressure with elevated cholesterol. Blood results otherwise normal. E
 
 ## Current Status
 
-Being actively managed with medication. Blood pressure and cholesterol require ongoing monitoring.
+Being actively managed with medication. Cholesterol requires ongoing monitoring. Blood pressure is normal and has never been an issue.
+
+**Note:** Statin was not yet started as of the 2025-01-14 blood results.
 
 ## Medications
 
